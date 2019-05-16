@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"测试多次添加Tag,查找失败原因/添加tag的必要条件");
+    NSLog(@"测试多次添加Tag,查找失败原因/添加tag的必要条件");
     
 }
 
